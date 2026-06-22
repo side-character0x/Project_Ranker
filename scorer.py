@@ -1,9 +1,11 @@
 import pandas as pd
+import os 
 
 class Score:
     def read(self):
-        data=pd.read_csv("project/project.csv")
-        return data
+        base = os.path.dirname(__file__)
+        path = os.path.join(base, "project.csv")
+        return pd.read_csv(path)
     def counter(self,keywords,row):
         score=0
         for keys in keywords:
