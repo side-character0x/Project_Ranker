@@ -1,0 +1,21 @@
+name,description,tags,difficulty
+Python CLI Calculator,Basic calculator supporting arithmetic operations,python cli beginner,1
+Todo App CLI,Task manager with add/delete/complete features,python cli productivity,2
+Weather App,Fetch weather data using API requests,python api requests,3
+File Organizer Tool,Automatically organize files into folders,python os automation,2
+Password Generator,Generate secure passwords with rules,python security random,1
+Student Score Analyzer,Analyze marks and compute rankings,pandas data analytics,3
+Mini Search Engine,Keyword-based search and ranking system,python search ranking,3
+Expense Tracker,Track income and expenses with summaries,python finance beginner,2
+URL Shortener,Shorten URLs using hash mapping logic,python data structures,3
+Chat Logger,Save and search chat history locally,python file handling,2
+Movie Recommender System,Recommend movies based on tags and similarity,python recommendation logic,4
+Library Management System,Manage books issue and return system,python oop system,3
+Text Analyzer Tool,Count words characters and frequency in text,python strings analytics,2
+GitHub Repo Analyzer,Analyze repository metadata via API,python api json,4
+Smart Notes App,Store search and retrieve notes efficiently,python search system,3
+Habit Tracker,Track daily habits and consistency,python productivity tracking,2
+Quiz App CLI,Simple quiz game with scoring system,python beginner cli,1
+Data Cleaning Tool,Clean and preprocess raw datasets,pandas data cleaning,3
+Project Recommender,Recommend projects based on user skills,python logic system,4
+Student Ranking System,Rank students using weighted scoring logic,pandas ranking system,3
